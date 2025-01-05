@@ -28,7 +28,9 @@
 
 ###
 
-<br clear="both">
+<img src="https://raw.githubusercontent.com/oMatheusValim/oMatheusValim/output/snake.svg" alt="Snake animation" />
+
+###
 
 <img src="https://raw.githubusercontent.com/oMatheusValim/oMatheusValim/output/snake.svg" alt="Snake animation" />
 
