@@ -6,7 +6,7 @@
 -   I'm passionate about problem-solving and always eager to learn new technologies and software development practices.
 -   One of my recent projects was [ONE-G8](https://github.com/oMatheusValim/ONE-G8), a repository containing all my studies from the Oracle Next Education program focused on Data Science.
 
-### 📳 Social Midia 
+### 📳 Connect with Me
 <div align="left">
   <a href="https://www.instagram.com/ovalim_/?hl=pt_BR" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
